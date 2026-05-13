@@ -29,3 +29,7 @@ updatedAt: 2026-05-12
 ## GitHub Webhook Push 测试
 
 这段内容用于验证 push 后自动触发本地 NestJS 发布。
+
+## Worker 队列测试
+
+这段内容用于验证 GitHub webhook 入队后，由 Worker 进程完成发布。
