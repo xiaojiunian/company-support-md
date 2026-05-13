@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <rect width="900" height="420" fill="#f5f7fb"/>
+  <rect x="180" y="80" width="540" height="260" rx="24" fill="white" stroke="#d7deea"/>
+  <text x="450" y="150" font-size="28" text-anchor="middle" fill="#172033">登录页面示例</text>
+  <rect x="300" y="190" width="300" height="44" rx="8" fill="#edf2ff" stroke="#b8c7ff"/>
+  <text x="450" y="220" font-size="18" text-anchor="middle" fill="#1f5eff">忘记密码？</text>
+</svg>
